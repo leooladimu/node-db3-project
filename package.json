@@ -20,9 +20,9 @@
     "supertest": "^6.1.6"
   },
   "dependencies": {
+    "@vscode/sqlite3": "^5.0.7",
     "express": "^4.17.1",
-    "knex": "^0.95.11",
-    "sqlite3": "^5.0.2"
+    "knex": "^1.0.3"
   },
   "repository": {
     "type": "git",
